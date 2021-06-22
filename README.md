@@ -1,4 +1,4 @@
-# CplusplusProgram
+# GroceryList-Cpp.Python
 
 #What is?
 It's the base code for taking in a list of items in txt file form in Python, finding out how many of one type of item there is, storing that data and giving it access to
@@ -10,4 +10,6 @@ I would have to say generally everything went well except the file system portio
 #What skills are transferable?
 One thing that's transferable is the way I validated the user input. It may not work for other languages, but it only needs to be modified slightly. One way to validate input, as an idea, is to break up the input into a char list or vector, and validate each one against a list or "not-list" of valid inputs. It's a long process but it does work.
 
+#How is it readable?
+I made this program readable by including comments and background descriptions on functions I used. The built in functions were not changed. I included comments at every needed point, making sure who ever looks at it can follow the code. 
 
